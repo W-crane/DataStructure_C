@@ -1,0 +1,8 @@
+﻿  main.c
+E:\C_Project\DataStructure\DataStructure\Link_list.h(195,23): warning C4047: “=”:“int”与“void *”的间接级别不同
+E:\C_Project\DataStructure\DataStructure\Link_list.h(219,12): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 2 拥有了类型“LNode *”
+E:\C_Project\DataStructure\DataStructure\Link_list.h(225,12): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 3 拥有了类型“LNode *”
+E:\C_Project\DataStructure\DataStructure\Link_list.h(233,23): warning C4047: “=”:“int”与“void *”的间接级别不同
+E:\C_Project\DataStructure\DataStructure\Link_list.h(165): warning C4715: “del_loc_link”: 不是所有的控件路径都返回值
+E:\C_Project\DataStructure\DataStructure\Link_list.h(278): warning C4715: “update_loc_link”: 不是所有的控件路径都返回值
+  DataStructure.vcxproj -> E:\C_Project\DataStructure\Debug\DataStructure.exe
